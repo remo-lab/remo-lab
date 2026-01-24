@@ -113,6 +113,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=remo-lab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<!-- Note: The snake animation requires a GitHub Action to generate. 
+     The workflow file has been created at .github/workflows/generate-snake.yml
+     It will run automatically and generate the snake animation. -->
+
 ---
 
 ## 🏆 GitHub Trophies
