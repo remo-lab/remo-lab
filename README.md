@@ -59,7 +59,7 @@ func main() {
     remo := CloudNativeEngineer{
         Name:      "Remo Panda",
         Role:      "Cloud Native Engineer & Open Source Contributor",
-        Languages: []string{"Go", "Python", "Bash", "YAML"},
+        Languages: []string{"Go", "TypeScript", "Python", "Bash"},
         Focus: []string{
             "Kubernetes Controllers & Operators",
             "Admission Webhooks & Policy Engines",
@@ -106,7 +106,7 @@ func main() {
 
   ### 💻 Languages & Tools
 
-  <img src="https://skillicons.dev/icons?i=go,python,bash,linux,docker,kubernetes,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,python,bash,linux,docker,kubernetes,git&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,redis,nginx,aws,azure,gcp,prometheus,grafana&theme=dark" />
 
@@ -149,15 +149,27 @@ func main() {
 
 <div align="center">
 
-  > _Contributing to the backbone of cloud infrastructure_
+  > _Contributing to the backbone of cloud infrastructure — 46+ PRs across major CNCF & OSS projects_
 
   <br/>
 
-  | <img src="https://img.shields.io/badge/-Kyverno-326CE5?style=flat-square&logo=kubernetes&logoColor=white" width="120"/> | <img src="https://img.shields.io/badge/-Hyperledger%20Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white" width="160"/> | <img src="https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=white" width="100"/> | <img src="https://img.shields.io/badge/-Keploy-FF6B6B?style=flat-square&logoColor=white" width="100"/> |
+  ### 🏛️ CNCF & Infrastructure (Go)
+
+  | <a href="https://github.com/kyverno/kyverno"><img src="https://img.shields.io/badge/-Kyverno-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a> | <a href="https://github.com/prometheus/prometheus"><img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a> | <a href="https://github.com/cilium/cilium"><img src="https://img.shields.io/badge/-Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black" /></a> | <a href="https://github.com/open-telemetry/opentelemetry-collector"><img src="https://img.shields.io/badge/-OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" /></a> |
   |:---:|:---:|:---:|:---:|
-  | Policy Engine | Blockchain Infra | Container Registry | Test Generation |
-  | Admission Control | Permissioned DLT | Cloud Native | Observability |
-  | Validation Webhooks | Enterprise Blockchain | Registry Security | API Testing |
+  | Policy Engine | Monitoring | eBPF Networking | Observability |
+
+  | <a href="https://github.com/goharbor/harbor"><img src="https://img.shields.io/badge/-Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" /></a> | <a href="https://github.com/hyperledger/fabric"><img src="https://img.shields.io/badge/-Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" /></a> | <a href="https://github.com/edgexfoundry/edgex-go"><img src="https://img.shields.io/badge/-EdgeX%20Foundry-5A2D82?style=for-the-badge&logoColor=white" /></a> | <a href="https://github.com/keploy/keploy"><img src="https://img.shields.io/badge/-Keploy-FF6B6B?style=for-the-badge&logoColor=white" /></a> |
+  |:---:|:---:|:---:|:---:|
+  | Container Registry | Blockchain | Edge/IoT | API Testing |
+
+  <br/>
+
+  ### 🌐 Other Notable Contributions
+
+  | <a href="https://github.com/HSF/phoenix"><img src="https://img.shields.io/badge/-CERN%20Phoenix-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a> | <a href="https://github.com/nasa/openmct"><img src="https://img.shields.io/badge/-NASA%20OpenMCT-FC3D21?style=for-the-badge&logo=nasa&logoColor=white" /></a> | <a href="https://github.com/learningequality/kolibri"><img src="https://img.shields.io/badge/-Kolibri-4A90D9?style=for-the-badge&logo=python&logoColor=white" /></a> | <a href="https://github.com/zowe/zowe-explorer-vscode"><img src="https://img.shields.io/badge/-Zowe-1A4480?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a> |
+  |:---:|:---:|:---:|:---:|
+  | HEP Visualization | Mission Control | Education | Mainframe IDE |
 
   <br/>
 
@@ -181,8 +193,38 @@ func main() {
 
   <a href="https://github.com/remo-lab">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remo-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remo-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
   </a>
+
+  <br/><br/>
+
+  ### 📊 Contribution Languages (Based on 46+ PRs)
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Go-65%25-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/TypeScript-20%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-5%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Other-10%25-888888?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Visual Progress Bars -->
+  ```text
+  Go           ████████████████████████████████░░░░░░░░░░░░░░░░░░   65%
+  TypeScript   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   20%
+  Python       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   05%
+  JS/HTML/CSS  █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
+  ```
+
+  <sub>📈 Languages based on actual PR contributions across Kyverno, Prometheus, Cilium, Harbor, Hyperledger Fabric, OpenTelemetry, EdgeX, Phoenix, Kolibri & more</sub>
 
   <br/><br/>
 
