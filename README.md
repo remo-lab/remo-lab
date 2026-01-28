@@ -148,6 +148,19 @@ func main() {
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
+<!-- GITHUB TROPHIES -->
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="32">&nbsp; GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=remo-lab&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
 <!-- TECH STACK SECTION -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">&nbsp; Tech Stack
 
@@ -210,6 +223,13 @@ func main() {
 
   <br/><br/>
 
+  <!-- Top Languages Card -->
+  <a href="https://github.com/remo-lab">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remo-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
   <!-- Contribution Languages -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=📊+Contribution+Languages+(46%2B+PRs)" alt="Lang Header" />
 
@@ -259,7 +279,7 @@ func main() {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake-dark.svg" />
   </picture>
 </div>
 
