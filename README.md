@@ -1,22 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Remo%20Panda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Native%20Engineer%20%7C%20Go%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=52&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Remo%20Panda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Open%20Source%20Contributor%20%7C%20CNCF%20Ecosystem%20%7C%20Cloud%20Native&descAlignY=52&descSize=18" width="100%" />
 
 <div align="center">
 
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%90%B9+Go+Developer+%7C+Kubernetes+Specialist;%E2%98%B8%EF%B8%8F+CNCF+Ecosystem+Contributor;%F0%9F%9A%80+Building+Systems+That+Scale;%F0%9F%94%A7+46%2B+PRs+Across+Major+OSS+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+46%2B+PRs+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Animated Badges Row -->
-  <a href="https://github.com/remo-lab">
-    <img src="https://img.shields.io/badge/Focus-Cloud%20Native-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
-  </a>
-  <img src="https://img.shields.io/badge/Primary-Go%20Developer-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
   <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab&type=pullrequests">
-    <img src="https://img.shields.io/badge/OSS-Active%20Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/OSS-46%2B%20PRs%20Merged-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" />
   </a>
+  <a href="https://github.com/remo-lab">
+    <img src="https://img.shields.io/badge/Focus-CNCF%20Ecosystem-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
+  </a>
+  <img src="https://img.shields.io/badge/Primary%20Lang-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
 
   <br/><br/>
 
@@ -31,7 +31,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 <!-- ABOUT ME SECTION -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; About Me
@@ -41,35 +43,38 @@ package main
 
 import "fmt"
 
-type CloudNativeEngineer struct {
-    Name       string
-    Role       string
-    Languages  []string
-    Focus      []string
-    Goals      []string
-    FunFact    string
+type OpenSourceContributor struct {
+    Name          string
+    Identity      string
+    Languages     []string
+    Contributions []string
+    Goals         []string
+    Philosophy    string
 }
 
 func main() {
-    remo := CloudNativeEngineer{
-        Name:      "Remo Panda",
-        Role:      "Cloud Native Engineer & Open Source Contributor",
+    remo := OpenSourceContributor{
+        Name:     "Remo Panda",
+        Identity: "Open Source Contributor & CNCF Ecosystem Advocate",
         Languages: []string{"Go", "TypeScript", "Python", "Bash"},
-        Focus: []string{
-            "Kubernetes Controllers & Operators",
-            "Admission Webhooks & Policy Engines",
-            "Cloud Native Infrastructure",
-            "Distributed Systems",
+        Contributions: []string{
+            "Kyverno — Kubernetes Policy Engine",
+            "Prometheus — Monitoring & Alerting",
+            "Cilium — eBPF-based Networking",
+            "OpenTelemetry — Observability Framework",
+            "Harbor, Hyperledger Fabric, EdgeX Foundry",
+            "CERN Phoenix, NASA OpenMCT, Kolibri",
         },
         Goals: []string{
             "LFX Mentorship",
-            "CNCF Long-term Contributor",
+            "Long-term CNCF maintainership",
             "Building impactful OSS tools",
         },
-        FunFact: "I don't just learn tools — I contribute to the systems that build them.",
+        Philosophy: "I don't just use tools — I contribute to the projects that build them.",
     }
 
     fmt.Printf("👋 Hey, I'm %s!\n", remo.Name)
+    fmt.Printf("📦 %d+ PRs across major open source projects\n", 46)
 }
 ```
 
@@ -79,73 +84,16 @@ func main() {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- TECH STACK SECTION -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">&nbsp; Tech Stack
-
 <div align="center">
-
-  <!-- Primary Stack Badges -->
-  <a href="https://go.dev/">
-    <img src="https://img.shields.io/badge/Go-Expert-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
-  </a>
-  &nbsp;
-  <a href="https://kubernetes.io/">
-    <img src="https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
-  </a>
-  &nbsp;
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Animated Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=go,typescript,python,bash,linux,docker,kubernetes,git&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,nginx,aws,azure,gcp,prometheus,grafana&theme=dark" />
-
-  <br/><br/>
-
-  <!-- Tech Categories Table -->
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="45" height="45" alt="Go" />
-        <br/><b>Go</b>
-        <br/><sub>Controllers & Webhooks</sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="K8s" />
-        <br/><b>Kubernetes</b>
-        <br/><sub>Admission Control</sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
-        <br/><b>Docker</b>
-        <br/><sub>Containerization</sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus" />
-        <br/><b>Prometheus</b>
-        <br/><sub>Monitoring</sub>
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- OPEN SOURCE SECTION -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">&nbsp; Open Source Contributions
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=46%2B+PRs+across+major+CNCF+%26+OSS+projects;Contributing+to+cloud+infrastructure+backbone" alt="OSS Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=46%2B+PRs+across+major+CNCF+%26+OSS+projects;Contributing+to+the+cloud+native+backbone" alt="OSS Typing" />
 
   <br/><br/>
 
@@ -196,7 +144,55 @@ func main() {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<!-- TECH STACK SECTION -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">&nbsp; Tech Stack
+
+<div align="center">
+
+  <!-- Animated Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=go,typescript,python,bash,linux,docker,kubernetes,git&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,nginx,aws,azure,gcp,prometheus,grafana&theme=dark" />
+
+  <br/><br/>
+
+  <!-- Tech Categories Table -->
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="45" height="45" alt="Go" />
+        <br/><b>Go</b>
+        <br/><sub>Controllers & Webhooks</sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="K8s" />
+        <br/><b>Kubernetes</b>
+        <br/><sub>Admission Control</sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+        <br/><b>Docker</b>
+        <br/><sub>Containerization</sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus" />
+        <br/><b>Prometheus</b>
+        <br/><sub>Monitoring</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 <!-- GITHUB STATS SECTION -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="32">&nbsp; GitHub Analytics
@@ -252,7 +248,26 @@ func main() {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32">&nbsp; Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 <!-- CURRENT FOCUS SECTION -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32">&nbsp; Current Focus
@@ -262,32 +277,32 @@ func main() {
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🐹-Go%20Development-00ADD8?style=flat-square" />
-        <br/><sub>K8s controllers & webhooks</sub>
+        <img src="https://img.shields.io/badge/🔧-CNCF%20Contributions-326CE5?style=flat-square" />
+        <br/><sub>Deepening involvement in CNCF projects</sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📚-CNCF%20Internals-326CE5?style=flat-square" />
-        <br/><sub>Deep-diving into project codebases</sub>
+        <img src="https://img.shields.io/badge/🐹-Go%20%26%20Kubernetes-00ADD8?style=flat-square" />
+        <br/><sub>K8s controllers, webhooks & operators</sub>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🔧-Admission%20Control-5A2D82?style=flat-square" />
-        <br/><sub>Policy engines & validation</sub>
-      </td>
       <td align="center">
         <img src="https://img.shields.io/badge/🚀-LFX%20Mentorship-FF6B6B?style=flat-square" />
-        <br/><sub>Preparing for programs</sub>
+        <br/><sub>Preparing for mentorship programs</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🤝-Community-0077B5?style=flat-square" />
+        <br/><sub>Collaborating with maintainers & reviewers</sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/🧪-Testing%20%26%20CI%2FCD-3DA639?style=flat-square" />
-        <br/><sub>Improving code quality</sub>
+        <img src="https://img.shields.io/badge/📚-Code%20Review-5A2D82?style=flat-square" />
+        <br/><sub>Reviewing & triaging upstream issues</sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🤝-Collaboration-0077B5?style=flat-square" />
-        <br/><sub>Working with maintainers</sub>
+        <img src="https://img.shields.io/badge/🧪-Testing%20%26%20CI%2FCD-3DA639?style=flat-square" />
+        <br/><sub>Improving project code quality</sub>
       </td>
     </tr>
   </table>
@@ -296,7 +311,9 @@ func main() {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 <!-- CONNECT SECTION -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">&nbsp; Let's Connect
@@ -307,17 +324,13 @@ func main() {
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Open+to+collaborations+and+opportunities!;Let's+build+something+amazing+together!;Always+excited+to+discuss+cloud+native+tech!" alt="Connect Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Open+to+collaborations+on+OSS+projects!;Let's+build+the+open+source+ecosystem+together!;Always+happy+to+discuss+cloud+native+contributions!" alt="Connect Animation" />
 
 </div>
 
@@ -327,5 +340,5 @@ func main() {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!+⭐;Happy+Coding!+🚀" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=350&lines=Thanks+for+visiting!+Star+a+repo+if+you+like+it!;Open+source+is+built+by+all+of+us." alt="Footer" />
 </div>
