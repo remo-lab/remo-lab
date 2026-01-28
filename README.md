@@ -4,7 +4,7 @@
 
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+46%2B+PRs+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+46%2B+PRs+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+GSoC+2025+Aspirant+%7C+LFX+Mentorship;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -66,6 +66,7 @@ func main() {
             "CERN Phoenix, NASA OpenMCT, Kolibri",
         },
         Goals: []string{
+            "Google Summer of Code (GSoC) 2025",
             "LFX Mentorship",
             "Long-term CNCF maintainership",
             "Building impactful OSS tools",
@@ -292,9 +293,15 @@ func main() {
     </tr>
     <tr>
       <td align="center">
+        <img src="https://img.shields.io/badge/🌞-GSoC%202025-4285F4?style=flat-square" />
+        <br/><sub>Applying for Google Summer of Code</sub>
+      </td>
+      <td align="center">
         <img src="https://img.shields.io/badge/🚀-LFX%20Mentorship-FF6B6B?style=flat-square" />
         <br/><sub>Preparing for mentorship programs</sub>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/🤝-Community-0077B5?style=flat-square" />
         <br/><sub>Collaborating with maintainers & reviewers</sub>
