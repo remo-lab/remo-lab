@@ -325,7 +325,7 @@ func main() {
 <div align="center">
 
   <!-- Animated connect -->
-  <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="150" />
 
   <br/><br/>
 
