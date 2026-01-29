@@ -324,8 +324,8 @@ func main() {
 
 <div align="center">
 
-  <!-- Animated handshake -->
-  <img src="https://media.giphy.com/media/Lr4HRF6DEfRtu8lNkr/giphy.gif" width="80" />
+  <!-- Animated connect -->
+  <img src="https://media.giphy.com/media/jdPMXSAL4jHFkEIEYq/giphy.gif" width="150" />
 
   <br/><br/>
 
