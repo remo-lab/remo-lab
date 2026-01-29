@@ -2,6 +2,10 @@
 
 <div align="center">
 
+  <!-- Animated hand wave -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <br/>
+
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+46%2B+PRs+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+GSoC+2026+Aspirant+%7C+LFX+Mentorship;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
@@ -31,9 +35,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 <!-- ABOUT ME SECTION -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; About Me
@@ -85,9 +88,8 @@ func main() {
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 <!-- OPEN SOURCE SECTION -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">&nbsp; Open Source Contributions
@@ -95,6 +97,11 @@ func main() {
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=46%2B+PRs+across+major+CNCF+%26+OSS+projects;Contributing+to+the+cloud+native+backbone" alt="OSS Typing" />
+
+  <br/><br/>
+
+  <!-- Animated rocket -->
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="40" />
 
   <br/><br/>
 
@@ -145,19 +152,23 @@ func main() {
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 <!-- TECH STACK SECTION -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">&nbsp; Tech Stack
 
 <div align="center">
 
+  <!-- Animated code gif -->
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coder GIF" />
+
+  <br/><br/>
+
   <!-- Animated Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=go,typescript,python,bash,linux,docker,kubernetes,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,python,bash,linux,docker,kubernetes,git&theme=dark&perline=8" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,nginx,aws,azure,gcp,prometheus,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,nginx,aws,azure,gcp,prometheus,grafana&theme=dark&perline=8" />
 
   <br/><br/>
 
@@ -191,14 +202,18 @@ func main() {
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 <!-- GITHUB STATS SECTION -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="32">&nbsp; GitHub Analytics
 
 <div align="center">
+
+  <!-- Animated chart gif -->
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40" />
+
+  <br/><br/>
 
   <!-- Stats Cards Side by Side -->
   <a href="https://github.com/remo-lab">
@@ -254,9 +269,8 @@ func main() {
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 <!-- SNAKE CONTRIBUTION GRAPH -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32">&nbsp; Contribution Snake
@@ -271,14 +285,18 @@ func main() {
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 <!-- CURRENT FOCUS SECTION -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32">&nbsp; Current Focus
 
 <div align="center">
+
+  <!-- Animated target gif -->
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40" />
+
+  <br/><br/>
 
   <img src="https://img.shields.io/badge/GSoC%202026-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" />
   &nbsp;
@@ -298,14 +316,18 @@ func main() {
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
 
 <!-- CONNECT SECTION -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">&nbsp; Let's Connect
 
 <div align="center">
+
+  <!-- Animated handshake -->
+  <img src="https://media.giphy.com/media/Lr4HRF6DEfRtu8lNkr/giphy.gif" width="40" />
+
+  <br/><br/>
 
   <a href="https://github.com/remo-lab">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
