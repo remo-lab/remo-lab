@@ -161,7 +161,7 @@ func main() {
 <div align="center">
 
   <!-- Animated code gif -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coder GIF" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coder GIF" />
 
   <br/><br/>
 
@@ -294,7 +294,7 @@ func main() {
 <div align="center">
 
   <!-- Animated target gif -->
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
 
   <br/><br/>
 
