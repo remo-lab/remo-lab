@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Animated hand wave -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
   <br/>
 
   <!-- Dynamic Typing Animation -->
@@ -101,7 +101,7 @@ func main() {
   <br/><br/>
 
   <!-- Animated rocket -->
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" />
 
   <br/><br/>
 
@@ -211,7 +211,7 @@ func main() {
 <div align="center">
 
   <!-- Animated chart gif -->
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" />
 
   <br/><br/>
 
@@ -294,7 +294,7 @@ func main() {
 <div align="center">
 
   <!-- Animated target gif -->
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="80" />
 
   <br/><br/>
 
@@ -325,7 +325,7 @@ func main() {
 <div align="center">
 
   <!-- Animated handshake -->
-  <img src="https://media.giphy.com/media/Lr4HRF6DEfRtu8lNkr/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/Lr4HRF6DEfRtu8lNkr/giphy.gif" width="80" />
 
   <br/><br/>
 
