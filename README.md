@@ -4,7 +4,7 @@
 
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+46%2B+PRs+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+GSoC+2025+Aspirant+%7C+LFX+Mentorship;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+46%2B+PRs+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+GSoC+2026+Aspirant+%7C+LFX+Mentorship;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -66,7 +66,7 @@ func main() {
             "CERN Phoenix, NASA OpenMCT, Kolibri",
         },
         Goals: []string{
-            "Google Summer of Code (GSoC) 2025",
+            "Google Summer of Code (GSoC) 2026",
             "LFX Mentorship",
             "Long-term CNCF maintainership",
             "Building impactful OSS tools",
@@ -280,44 +280,19 @@ func main() {
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🔧-CNCF%20Contributions-326CE5?style=flat-square" />
-        <br/><sub>Deepening involvement in CNCF projects</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🐹-Go%20%26%20Kubernetes-00ADD8?style=flat-square" />
-        <br/><sub>K8s controllers, webhooks & operators</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌞-GSoC%202025-4285F4?style=flat-square" />
-        <br/><sub>Applying for Google Summer of Code</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀-LFX%20Mentorship-FF6B6B?style=flat-square" />
-        <br/><sub>Preparing for mentorship programs</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🤝-Community-0077B5?style=flat-square" />
-        <br/><sub>Collaborating with maintainers & reviewers</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📚-Code%20Review-5A2D82?style=flat-square" />
-        <br/><sub>Reviewing & triaging upstream issues</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🧪-Testing%20%26%20CI%2FCD-3DA639?style=flat-square" />
-        <br/><sub>Improving project code quality</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/GSoC%202026-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CNCF%20Contributions-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LFX%20Mentorship-FF6B6B?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=0D1117" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Go%20%26%20Kubernetes-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Community%20Collaboration-0077B5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Code%20Review%20%26%20Triage-5A2D82?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
 
 </div>
 
