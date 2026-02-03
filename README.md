@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Remo%20Panda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Open%20Source%20Contributor%20%7C%20CNCF%20Ecosystem%20%7C%20Cloud%20Native&descAlignY=52&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:D946EF,100:06B6D4&height=200&section=header&text=Remo%20Panda&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Open%20Source%20Contributor%20%7C%20CNCF%20Ecosystem%20%7C%20Cloud%20Native&descAlignY=55&descSize=18" width="100%" />
 
 <div align="center">
 
@@ -8,27 +8,38 @@
 
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+Active+Contributor+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+GSoC+2026+Aspirant+%7C+LFX+Mentorship;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=D946EF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+Active+Contributor+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+GSoC+2026+Aspirant+%7C+LFX+Mentorship;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Animated Badges Row - Dynamic PR Count -->
   <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr&query=%24.total_count&suffix=%2B%20PRs&style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117&color=brightgreen&label=OSS" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr&query=%24.total_count&suffix=%2B%20PRs&style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1b27&color=A855F7&label=OSS" />
   </a>
+  &nbsp;
   <a href="https://github.com/remo-lab">
-    <img src="https://img.shields.io/badge/Focus-CNCF%20Ecosystem-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Focus-CNCF%20Ecosystem-06B6D4?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1b27" />
   </a>
-  <img src="https://img.shields.io/badge/Primary%20Lang-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Primary%20Lang-Go-D946EF?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1b27" />
+
+  <br/><br/>
+
+  <!-- Animated Stats Gif -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
 
   <br/><br/>
 
   <!-- Profile Stats -->
-  <img src="https://komarev.com/ghpvc/?username=remo-lab&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=remo-lab&color=D946EF&style=for-the-badge&label=PROFILE+VIEWS" />
   &nbsp;
   <a href="https://github.com/remo-lab?tab=followers">
-    <img src="https://img.shields.io/github/followers/remo-lab?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=FOLLOWERS" />
+    <img src="https://img.shields.io/github/followers/remo-lab?style=for-the-badge&logo=github&color=A855F7&labelColor=1a1b27&label=FOLLOWERS" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/remo-lab?tab=repositories">
+    <img src="https://img.shields.io/github/stars/remo-lab?style=for-the-badge&logo=github&color=06B6D4&labelColor=1a1b27&label=STARS" />
   </a>
 
 </div>
@@ -36,10 +47,12 @@
 <br/>
 
 <!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ABOUT ME SECTION -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; About Me
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
 ```go
 package main
@@ -82,21 +95,23 @@ func main() {
 }
 ```
 
+<br clear="right"/>
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Consistency%20beats%20talent%20when%20talent%20stops%20contributing.&author=Remo" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Consistency%20beats%20talent%20when%20talent%20stops%20contributing.&author=Remo" />
 </div>
 
 <br/>
 
 <!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- OPEN SOURCE SECTION -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">&nbsp; Open Source Contributions
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Active+contributor+across+CNCF+%26+OSS+projects;Contributing+to+the+cloud+native+backbone" alt="OSS Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Active+contributor+across+CNCF+%26+OSS+projects;Contributing+to+the+cloud+native+backbone" alt="OSS Typing" />
 
   <br/><br/>
 
@@ -106,46 +121,51 @@ func main() {
   <br/><br/>
 
   <!-- CNCF Projects Row 1 -->
-  <a href="https://github.com/kyverno/kyverno"><img src="https://img.shields.io/badge/Kyverno-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://github.com/kyverno/kyverno"><img src="https://img.shields.io/badge/Kyverno-A855F7?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/prometheus/prometheus"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/cilium/cilium"><img src="https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black" /></a>
+  <a href="https://github.com/cilium/cilium"><img src="https://img.shields.io/badge/Cilium-06B6D4?style=for-the-badge&logo=cilium&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/open-telemetry/opentelemetry-collector"><img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" /></a>
+  <a href="https://github.com/open-telemetry/opentelemetry-collector"><img src="https://img.shields.io/badge/OpenTelemetry-D946EF?style=for-the-badge&logo=opentelemetry&logoColor=white" /></a>
 
   <br/><br/>
 
   <!-- CNCF Projects Row 2 -->
-  <a href="https://github.com/goharbor/harbor"><img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" /></a>
+  <a href="https://github.com/goharbor/harbor"><img src="https://img.shields.io/badge/Harbor-22C55E?style=for-the-badge&logo=harbor&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/hyperledger/fabric"><img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" /></a>
+  <a href="https://github.com/hyperledger/fabric"><img src="https://img.shields.io/badge/Hyperledger-8B5CF6?style=for-the-badge&logo=hyperledger&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/edgexfoundry/edgex-go"><img src="https://img.shields.io/badge/EdgeX%20Foundry-5A2D82?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/edgexfoundry/edgex-go"><img src="https://img.shields.io/badge/EdgeX%20Foundry-EC4899?style=for-the-badge&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/keploy/keploy"><img src="https://img.shields.io/badge/Keploy-FF6B6B?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/keploy/keploy"><img src="https://img.shields.io/badge/Keploy-F97316?style=for-the-badge&logoColor=white" /></a>
+
+  <br/><br/>
+
+  <!-- Animated code -->
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="60" />
 
   <br/><br/>
 
   <!-- Other Projects -->
   <sub><b>Other Notable Contributions:</b></sub>
   <br/><br/>
-  <a href="https://github.com/HSF/phoenix"><img src="https://img.shields.io/badge/CERN%20Phoenix-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="https://github.com/HSF/phoenix"><img src="https://img.shields.io/badge/CERN%20Phoenix-06B6D4?style=flat-square&logo=typescript&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/nasa/openmct"><img src="https://img.shields.io/badge/NASA%20OpenMCT-FC3D21?style=flat-square&logo=nasa&logoColor=white" /></a>
+  <a href="https://github.com/nasa/openmct"><img src="https://img.shields.io/badge/NASA%20OpenMCT-EC4899?style=flat-square&logo=nasa&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/learningequality/kolibri"><img src="https://img.shields.io/badge/Kolibri-4A90D9?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/learningequality/kolibri"><img src="https://img.shields.io/badge/Kolibri-A855F7?style=flat-square&logo=python&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/zowe/zowe-explorer-vscode"><img src="https://img.shields.io/badge/Zowe-1A4480?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
+  <a href="https://github.com/zowe/zowe-explorer-vscode"><img src="https://img.shields.io/badge/Zowe-8B5CF6?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
 
   <br/><br/>
 
   <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab&type=pullrequests">
-    <img src="https://img.shields.io/badge/🔍_View_All_My_Pull_Requests-00D9FF?style=for-the-badge&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/🔍_View_All_My_Pull_Requests-D946EF?style=for-the-badge&labelColor=1a1b27" />
   </a>
   &nbsp;
   <a href="https://github.com/search?q=is%3Aissue+author%3Aremo-lab&type=issues">
-    <img src="https://img.shields.io/badge/📋_View_All_My_Issues-00D9FF?style=for-the-badge&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/📋_View_All_My_Issues-A855F7?style=for-the-badge&labelColor=1a1b27" />
   </a>
 
 </div>
@@ -153,7 +173,7 @@ func main() {
 <br/>
 
 <!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- TECH STACK SECTION -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">&nbsp; Tech Stack
@@ -169,6 +189,11 @@ func main() {
   <img src="https://skillicons.dev/icons?i=go,typescript,python,bash,linux,docker,kubernetes,git&theme=dark&perline=8" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,redis,nginx,aws,azure,gcp,prometheus,grafana&theme=dark&perline=8" />
+
+  <br/><br/>
+
+  <!-- Animated typing for tech -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=06B6D4&center=true&vCenter=true&width=400&lines=Go+%7C+TypeScript+%7C+Python+%7C+Bash;Kubernetes+%7C+Docker+%7C+Prometheus;AWS+%7C+Azure+%7C+GCP" alt="Tech Typing" />
 
   <br/><br/>
 
@@ -203,7 +228,7 @@ func main() {
 <br/>
 
 <!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- GITHUB STATS SECTION -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="32">&nbsp; GitHub Analytics
@@ -216,61 +241,67 @@ func main() {
   <br/><br/>
 
   <!-- PR Analytics Cards -->
-  <h4>Pull Request Analytics</h4>
+  <h4><img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25" /> Pull Request Analytics</h4>
 
   <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr&query=%24.total_count&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D9FF&label=PRs%20Raised" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr&query=%24.total_count&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=A855F7&label=PRs%20Raised" />
   </a>
   &nbsp;
   <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab+is%3Amerged&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr%2Bis%3Amerged&query=%24.total_count&style=for-the-badge&logo=git-merge&logoColor=white&labelColor=0D1117&color=brightgreen&label=PRs%20Merged" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr%2Bis%3Amerged&query=%24.total_count&style=for-the-badge&logo=git-merge&logoColor=white&labelColor=1a1b27&color=22C55E&label=PRs%20Merged" />
   </a>
   &nbsp;
   <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab+is%3Aopen&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr%2Bis%3Aopen&query=%24.total_count&style=for-the-badge&logo=git-pull-request&logoColor=white&labelColor=0D1117&color=FF6B6B&label=PRs%20Open" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr%2Bis%3Aopen&query=%24.total_count&style=for-the-badge&logo=git-pull-request&logoColor=white&labelColor=1a1b27&color=F97316&label=PRs%20Open" />
   </a>
   &nbsp;
   <a href="https://github.com/search?q=reviewed-by%3Aremo-lab+is%3Apr&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dreviewed-by%3Aremo-lab%2Bis%3Apr&query=%24.total_count&style=for-the-badge&logo=codereview&logoColor=white&labelColor=0D1117&color=9945FF&label=PRs%20Reviewed" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dreviewed-by%3Aremo-lab%2Bis%3Apr&query=%24.total_count&style=for-the-badge&logo=codereview&logoColor=white&labelColor=1a1b27&color=D946EF&label=PRs%20Reviewed" />
   </a>
 
   <br/><br/>
 
   <!-- Profile Summary Cards -->
   <a href="https://github.com/remo-lab">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=remo-lab&theme=tokyonight" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=remo-lab&theme=radical" alt="Profile Details" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/remo-lab">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=remo-lab&theme=tokyonight" alt="Top Languages by Commit" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=remo-lab&theme=radical" alt="Top Languages by Commit" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/remo-lab">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=remo-lab&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=remo-lab&theme=radical&utcOffset=5.5" alt="Productive Time" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/remo-lab">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=remo-lab&theme=tokyonight" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=remo-lab&theme=radical" alt="Stats" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=remo-lab&custom_title=Contribution%20Activity&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=remo-lab&custom_title=Contribution%20Activity&hide_border=true&bg_color=1a1b27&color=A855F7&line=D946EF&point=FFFFFF&area=true&area_color=8B5CF6" width="98%" alt="Activity Graph" />
 
 </div>
 
 <br/>
 
 <!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- SNAKE CONTRIBUTION GRAPH -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32">&nbsp; Contribution Snake
 
 <div align="center">
+
+  <!-- Animated snake intro -->
+  <img src="https://media.giphy.com/media/2rACp9a8RJCq5q2aqN/giphy.gif" width="60" />
+
+  <br/><br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake.svg" />
@@ -281,7 +312,7 @@ func main() {
 <br/>
 
 <!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- CURRENT FOCUS SECTION -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32">&nbsp; Current Focus
@@ -293,26 +324,31 @@ func main() {
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/GSoC%202026-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GSoC%202026-A855F7?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1b27" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CNCF%20Contributions-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/CNCF%20Contributions-06B6D4?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1b27" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LFX%20Mentorship-FF6B6B?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LFX%20Mentorship-D946EF?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=1a1b27" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Go%20%26%20Kubernetes-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
+  <!-- Animated code -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Go%20%26%20Kubernetes-22C55E?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1b27" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Community%20Collaboration-0077B5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Community%20Collaboration-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1b27" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Code%20Review%20%26%20Triage-5A2D82?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Code%20Review%20%26%20Triage-EC4899?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" />
 
 </div>
 
 <br/>
 
 <!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- CONNECT SECTION -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">&nbsp; Let's Connect
@@ -325,24 +361,38 @@ func main() {
   <br/><br/>
 
   <a href="https://github.com/remo-lab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+  </a>
+  &nbsp;
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-D946EF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
   </a>
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Open+to+collaborations+on+OSS+projects!;Let's+build+the+open+source+ecosystem+together!;Always+happy+to+discuss+cloud+native+contributions!" alt="Connect Animation" />
+  <!-- Animated handshake -->
+  <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="60" />
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=D946EF&center=true&vCenter=true&width=500&lines=Open+to+collaborations+on+OSS+projects!;Let's+build+the+open+source+ecosystem+together!;Always+happy+to+discuss+cloud+native+contributions!" alt="Connect Animation" />
 
 </div>
 
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:D946EF,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=350&lines=Thanks+for+visiting!+Star+a+repo+if+you+like+it!;Open+source+is+built+by+all+of+us." alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=350&lines=Thanks+for+visiting!+Star+a+repo+if+you+like+it!;Open+source+is+built+by+all+of+us." alt="Footer" />
+
+  <br/>
+
+  <!-- Animated footer gif -->
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" />
 </div>
