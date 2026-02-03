@@ -244,18 +244,9 @@ func main() {
   <br/><br/>
 
   <a href="https://github.com/remo-lab">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=remo-lab&theme=tokyonight" alt="Top Languages by Repo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/remo-lab">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=remo-lab&theme=tokyonight" alt="Top Languages by Commit" />
   </a>
-
-  <br/><br/>
-
-  <!-- Contribution Languages -->
-  <h4>Contribution Languages</h4>
-
+  &nbsp;&nbsp;
   <a href="https://github.com/remo-lab">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=remo-lab&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
   </a>
