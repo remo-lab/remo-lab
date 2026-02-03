@@ -142,11 +142,6 @@ func main() {
 
   <br/><br/>
 
-  <!-- Animated code -->
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="60" />
-
-  <br/><br/>
-
   <!-- Other Projects -->
   <sub><b>Other Notable Contributions:</b></sub>
   <br/><br/>
@@ -296,12 +291,6 @@ func main() {
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32">&nbsp; Contribution Snake
 
 <div align="center">
-
-  <!-- Animated snake intro -->
-  <img src="https://media.giphy.com/media/2rACp9a8RJCq5q2aqN/giphy.gif" width="60" />
-
-  <br/><br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/remo-lab/remo-lab/output/github-snake.svg" />
@@ -389,10 +378,11 @@ func main() {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:D946EF,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=350&lines=Thanks+for+visiting!+Star+a+repo+if+you+like+it!;Open+source+is+built+by+all+of+us." alt="Footer" />
 
-  <br/>
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-D946EF?style=for-the-badge&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Star%20a%20repo%20if%20you%20like%20it!-A855F7?style=for-the-badge&logo=github&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20source%20is%20built%20by%20all%20of%20us-06B6D4?style=for-the-badge&logo=opensourceinitiative&labelColor=1a1b27" />
 
-  <!-- Animated footer gif -->
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" />
 </div>
