@@ -8,14 +8,14 @@
 
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+46%2B+PRs+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+GSoC+2026+Aspirant+%7C+LFX+Mentorship;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+Active+Contributor+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+GSoC+2026+Aspirant+%7C+LFX+Mentorship;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Animated Badges Row -->
+  <!-- Animated Badges Row - Dynamic PR Count -->
   <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab&type=pullrequests">
-    <img src="https://img.shields.io/badge/OSS-46%2B%20PRs%20Merged-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr&query=%24.total_count&suffix=%2B%20PRs&style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117&color=brightgreen&label=OSS" />
   </a>
   <a href="https://github.com/remo-lab">
     <img src="https://img.shields.io/badge/Focus-CNCF%20Ecosystem-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
@@ -77,8 +77,8 @@ func main() {
         Philosophy: "I don't just use tools — I contribute to the projects that build them.",
     }
 
-    fmt.Printf("👋 Hey, I'm %s!\n", remo.Name)
-    fmt.Printf("📦 %d+ PRs across major open source projects\n", 46)
+    fmt.Printf("Hey, I'm %s!\n", remo.Name)
+    fmt.Println("Actively contributing PRs across major open source projects")
 }
 ```
 
@@ -96,7 +96,7 @@ func main() {
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=46%2B+PRs+across+major+CNCF+%26+OSS+projects;Contributing+to+the+cloud+native+backbone" alt="OSS Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Active+contributor+across+CNCF+%26+OSS+projects;Contributing+to+the+cloud+native+backbone" alt="OSS Typing" />
 
   <br/><br/>
 
@@ -215,50 +215,54 @@ func main() {
 
   <br/><br/>
 
-  <!-- Stats Cards Side by Side -->
-  <a href="https://github.com/remo-lab">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remo-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- PR Analytics Cards -->
+  <h4>Pull Request Analytics</h4>
+
+  <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab&type=pullrequests">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr&query=%24.total_count&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D9FF&label=PRs%20Raised" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/remo-lab">
-    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=remo-lab&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=00D9FF&dates=888888" alt="Streak Stats" />
+  &nbsp;
+  <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab+is%3Amerged&type=pullrequests">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr%2Bis%3Amerged&query=%24.total_count&style=for-the-badge&logo=git-merge&logoColor=white&labelColor=0D1117&color=brightgreen&label=PRs%20Merged" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab+is%3Aopen&type=pullrequests">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr%2Bis%3Aopen&query=%24.total_count&style=for-the-badge&logo=git-pull-request&logoColor=white&labelColor=0D1117&color=FF6B6B&label=PRs%20Open" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/search?q=reviewed-by%3Aremo-lab+is%3Apr&type=pullrequests">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dreviewed-by%3Aremo-lab%2Bis%3Apr&query=%24.total_count&style=for-the-badge&logo=codereview&logoColor=white&labelColor=0D1117&color=9945FF&label=PRs%20Reviewed" />
   </a>
 
   <br/><br/>
 
-  <!-- Top Languages Card -->
+  <!-- Profile Summary Cards -->
   <a href="https://github.com/remo-lab">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remo-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=remo-lab&theme=tokyonight" alt="Profile Details" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/remo-lab">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=remo-lab&theme=tokyonight" alt="Top Languages by Repo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/remo-lab">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=remo-lab&theme=tokyonight" alt="Top Languages by Commit" />
   </a>
 
   <br/><br/>
 
   <!-- Contribution Languages -->
-  <h4>Contribution Languages (46+ PRs)</h4>
+  <h4>Contribution Languages</h4>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Go-65%25-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/TypeScript-20%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-5%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Other-10%25-888888?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-      </td>
-    </tr>
-  </table>
-
-  ```text
-  Go           ████████████████████████████████░░░░░░░░░░░░░░░░░░   65%
-  TypeScript   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   20%
-  Python       ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   05%
-  Other        █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
-  ```
+  <a href="https://github.com/remo-lab">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=remo-lab&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/remo-lab">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=remo-lab&theme=tokyonight" alt="Stats" />
+  </a>
 
   <br/>
 
