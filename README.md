@@ -363,8 +363,8 @@ func main() {
 
   <br/><br/>
 
-  <!-- Animated collaboration -->
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="70" />
+  <!-- Animated connect -->
+  <img src="https://media.giphy.com/media/lr4Z2SpW31fPO/giphy.gif" width="70" />
 
   <br/><br/>
 
