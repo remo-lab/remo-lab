@@ -8,14 +8,14 @@
 
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=D946EF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+Active+Contributor+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+GSoC+2026+Aspirant+%7C+LFX+Mentorship;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=D946EF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A8+Open+Source+Contributor+%7C+CNCF+Ecosystem;%F0%9F%90%B9+Active+Contributor+Across+Major+OSS+Projects;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Kyverno+%7C+Prometheus+%7C+Cilium;%F0%9F%8C%9E+LFX+Mentee+%40+Kyverno+%7C+GSoC+2026+Aspirant;%F0%9F%A4%9D+Building+the+Cloud+Native+Backbone+Together" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Animated Badges Row - Dynamic PR Count -->
-  <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr&query=%24.total_count&suffix=%2B%20PRs&style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1b27&color=A855F7&label=OSS" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Aremo-lab">
+    <img src="https://img.shields.io/badge/OSS%20Contributions-View%20Pull%20Requests-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
   &nbsp;
   <a href="https://github.com/remo-lab">
@@ -39,7 +39,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/remo-lab?tab=repositories">
-    <img src="https://img.shields.io/github/stars/remo-lab?style=for-the-badge&logo=github&color=06B6D4&labelColor=1a1b27&label=STARS" />
+    <img src="https://img.shields.io/badge/Projects-View%20Repositories-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
 
 </div>
@@ -71,10 +71,10 @@ type OpenSourceContributor struct {
 func main() {
     remo := OpenSourceContributor{
         Name:     "Remo Panda",
-        Identity: "Open Source Contributor & CNCF Ecosystem Advocate",
+        Identity: "Open Source Contributor, LFX Mentee @ Kyverno & CNCF Ecosystem Advocate",
         Languages: []string{"Go", "TypeScript", "Python", "Bash"},
         Contributions: []string{
-            "Kyverno — Kubernetes Policy Engine",
+            "Kyverno - Kubernetes Policy Engine (LFX mentee)",
             "Prometheus — Monitoring & Alerting",
             "Cilium — eBPF-based Networking",
             "OpenTelemetry — Observability Framework",
@@ -83,7 +83,7 @@ func main() {
         },
         Goals: []string{
             "Google Summer of Code (GSoC) 2026",
-            "LFX Mentorship",
+            "LFX Mentorship - Kyverno (selected mentee)",
             "Long-term CNCF maintainership",
             "Building impactful OSS tools",
         },
@@ -155,12 +155,12 @@ func main() {
 
   <br/><br/>
 
-  <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab&type=pullrequests">
-    <img src="https://img.shields.io/badge/🔍_View_All_My_Pull_Requests-D946EF?style=for-the-badge&labelColor=1a1b27" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Aremo-lab">
+    <img src="https://img.shields.io/badge/View%20My%20Pull%20Requests-D946EF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
   &nbsp;
-  <a href="https://github.com/search?q=is%3Aissue+author%3Aremo-lab&type=issues">
-    <img src="https://img.shields.io/badge/📋_View_All_My_Issues-A855F7?style=for-the-badge&labelColor=1a1b27" />
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Aremo-lab">
+    <img src="https://img.shields.io/badge/View%20My%20Issues-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
 
 </div>
@@ -238,20 +238,20 @@ func main() {
   <!-- PR Analytics Cards -->
   <h4><img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25" /> Pull Request Analytics</h4>
 
-  <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr&query=%24.total_count&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=A855F7&label=PRs%20Raised" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Aremo-lab">
+    <img src="https://img.shields.io/badge/PRs%20Raised-View%20on%20GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
   &nbsp;
-  <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab+is%3Amerged&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr%2Bis%3Amerged&query=%24.total_count&style=for-the-badge&logo=git-merge&logoColor=white&labelColor=1a1b27&color=22C55E&label=PRs%20Merged" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Aremo-lab+is%3Amerged">
+    <img src="https://img.shields.io/badge/PRs%20Merged-View%20on%20GitHub-22C55E?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" />
   </a>
   &nbsp;
-  <a href="https://github.com/search?q=is%3Apr+author%3Aremo-lab+is%3Aopen&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aremo-lab%2Bis%3Apr%2Bis%3Aopen&query=%24.total_count&style=for-the-badge&logo=git-pull-request&logoColor=white&labelColor=1a1b27&color=F97316&label=PRs%20Open" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Aremo-lab+is%3Aopen">
+    <img src="https://img.shields.io/badge/PRs%20Open-View%20on%20GitHub-F97316?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
   &nbsp;
-  <a href="https://github.com/search?q=reviewed-by%3Aremo-lab+is%3Apr&type=pullrequests">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dreviewed-by%3Aremo-lab%2Bis%3Apr&query=%24.total_count&style=for-the-badge&logo=codereview&logoColor=white&labelColor=1a1b27&color=D946EF&label=PRs%20Reviewed" />
+  <a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3Aremo-lab">
+    <img src="https://img.shields.io/badge/PRs%20Reviewed-View%20on%20GitHub-D946EF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
 
   <br/><br/>
@@ -317,7 +317,11 @@ func main() {
   &nbsp;
   <img src="https://img.shields.io/badge/CNCF%20Contributions-06B6D4?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1b27" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LFX%20Mentorship-D946EF?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/LFX%20Mentee%20%40%20Kyverno-D946EF?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=1a1b27" />
+
+  <br/><br/>
+
+  <sub><b>Selected as an LFX mentee for the Kyverno mentorship program.</b></sub>
 
   <br/><br/>
 
@@ -353,11 +357,7 @@ func main() {
     <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
-  </a>
-  &nbsp;
-  <a href="mailto:">
+  <a href="mailto:remopanda7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D946EF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
   </a>
 
