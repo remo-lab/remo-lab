@@ -132,9 +132,11 @@ func main() {
 
   <br/><br/>
 
-  <sub><b>Other Notable Contributions:</b></sub>
+  <sub><b>Notable Repositories:</b></sub>
   <br/><br/>
   <a href="https://github.com/HSF/phoenix"><img src="https://img.shields.io/badge/CERN%20Phoenix-06B6D4?style=flat-square&logo=typescript&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/sugarlabs/sugar-toolkit-gtk4"><img src="https://img.shields.io/badge/Sugar%20Labs%20GTK--4-D946EF?style=flat-square&logo=gnome&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/nasa/openmct"><img src="https://img.shields.io/badge/NASA%20OpenMCT-EC4899?style=flat-square&logo=nasa&logoColor=white" /></a>
   &nbsp;
